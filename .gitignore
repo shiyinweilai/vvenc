@@ -15,3 +15,5 @@ deploy
 /out/
 .project
 .cproject
+.idea
+cmake-build-debug
